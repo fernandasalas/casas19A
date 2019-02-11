@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import datetime
 
 class   Informador:
     def __init__(self):
