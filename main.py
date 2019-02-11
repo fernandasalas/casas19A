@@ -1,7 +1,7 @@
 from informador import Informador
 informador = Informador()
 informador.scrapping()
-print(informador.lista)
+informador.to_json()
 
 
 
