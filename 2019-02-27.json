@@ -1,0 +1,800 @@
+[
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Tenemos La Casa De Tus Sue\u00f1os (Campo Lago Hobitat)",
+        "precio": "$ 0.00",
+        "descripcion": "Tenemos la Casa de tus sue\u00f1os, La Calma $4,300,000, Campolago $13\u00b4410,000 1489 mt2. Bugambilias $8\u00b4500,000 de 578 mts, $2,790,000 Chapala,\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Campo Lago Hobitat",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392207/r-1412519.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392207/r-1412516.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392207/r-1412517.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392207/r-1412518.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Tenemos La Casa De Tus Sue\u00f1os (La Calma)",
+        "precio": "$ 0.00",
+        "descripcion": "Tenemos la Casa de tus sue\u00f1os, La Calma $4\u00b4300,000, Campolago $13\u00b4410,000 1489 mt2. Bugambilias $8\u00b4500,000 de 578 mts, $2\u00b4790,000 Chapala.\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. La Calma",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392206/r-1412523.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392206/r-1412520.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392206/r-1412521.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392206/r-1412522.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Buscas Casa? 48 A\u00f1os Nos Respaldan, Azaleas $3\u00b4610,000, Go (Bugambilias)",
+        "precio": "$ 0.00",
+        "descripcion": "BUSCAS Casa? 48 a\u00f1os nos respaldan, Azaleas $3\u00b4610,000, Gobernador Curiel $465,000, Zona real desde: $3\u00b4150,000, a lado Bugambilias $1\u00b4765,000, Santa\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Bugambilias",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392216/r-1412515.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392216/r-1412512.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392216/r-1412513.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392216/r-1412514.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Tlajomulco",
+        "titulo": "Buscas Casa? 48 A\u00f1os Nos Respaldan, Azaleas $3,610,000, Gob (Azalea Santa Anita)",
+        "precio": "$ 0.00",
+        "descripcion": "BUSCAS Casa? 48 a\u00f1os nos respaldan, Azaleas $3,610,000, Gobernador Curiel $465,000, Zona Real desde: $3\u00b4150,000, a lado Bugambilias $1\u00b4765,000, Santa\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Azalea Santa Anita",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392215/r-1412510.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392215/r-1412508.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392215/r-1412509.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392215/r-1412511.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "Colon Industrial Goa 1583 (a Espaldas Prepa 5) 6 Casas Ubica (Colon Industrial)",
+        "precio": "$ 0.00",
+        "descripcion": "COLON INDUSTRIAL Goa 1583 (a espaldas Prepa 5) 6 CASAS UBICADISIMAS -3 rec\u00e1maras, 2 y medio ba\u00f1os, cuarto de servicio,\u2026",
+        "recamaras": "3 Rec",
+        "m2": "105",
+        "m2_2": "120",
+        "wc": "2 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Colon Industrial",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/05/10339359/r-1371290.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Buscas Casa. (Ciudad Del Sol)",
+        "precio": "$ 0.00",
+        "descripcion": "BUSCAS Casa? 48 a\u00f1os nos respaldan. Ciudad del Sol $8\u00b4535,000, Gobernador Curiel $465,000 ,Zona real desde: $3\u00b4150,000, a lado Bugambilias\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Ciudad Del Sol",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389634/r-1410209.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389634/r-1410210.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389634/r-1410211.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389634/r-1410212.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "La Casa De Tus Sue\u00d1os (Bugambilias)",
+        "precio": "$ 0.00",
+        "descripcion": "Tenemos la Casa de tus sue\u00f1os, La Calma $4,300,000, Campolago $13\u00b4410,000 1489 mt2. Bugambilias $8\u00b4500,000 de 578 mts, Tabachines $1\u00b4730,000,\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Bugambilias",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389629/r-1410198.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389629/r-1410199.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389629/r-1410200.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389629/r-1410201.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Venta, Campo Real (Campo Real)",
+        "precio": "$ 890,000.00",
+        "descripcion": "La casa cuenta con cocina integral, 3 cuartos con ba\u00f1o completo, patio de servicio, estacionamiento para un auto, se tienen\u2026",
+        "recamaras": "3 Rec",
+        "m2": "70",
+        "m2_2": "90",
+        "wc": "3 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Campo Real",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/07/10348727/r-1412383.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/07/10348727/r-1412374.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/07/10348727/r-1412375.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/07/10348727/r-1412376.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Arboledas Juan Kepler 3255 A Media Cuadra De Av. Lopez Mateo (Arboledas)",
+        "precio": "$ 3,950,000.00",
+        "descripcion": "ARBOLEDAS Juan Kepler 3255 a media cuadra de Av. Lopez Mateos, reci\u00e9n remodelada frente Soriana Las \u00c1guilas, con uso de\u2026",
+        "recamaras": "4 Rec",
+        "m2": "180",
+        "m2_2": "240",
+        "wc": "5 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Arboledas",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393387/r-1413453.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393387/r-1413454.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393387/r-1413455.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393387/r-1413456.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "Hermosa Casa (Bugambilias)",
+        "precio": "$ 5,400,000.00",
+        "descripcion": "Casa de una sola planta, techos de doble altura, vista panor\u00e1mica y rodeada de grandes jardines. Dos rec\u00e1maras con ba\u00f1o\u2026",
+        "recamaras": "2 Rec",
+        "m2": "480",
+        "m2_2": "300",
+        "wc": "2.5 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Bugambilias",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394690/r-1414474.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394690/r-1414468.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394690/r-1414469.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394690/r-1414470.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "LA Herradura, residencia, con alberca, terraza, cancha de basquet, chalet para visitas, hermosos jardines, muy buena ubicaci\u00f3n. 3629-6555",
+        "recamaras": "3 Rec",
+        "m2": "3386",
+        "m2_2": "513",
+        "wc": "2.5 ba\u00f1os",
+        "cars": "12 lugares",
+        "colonia": "Col. Villas De La Primavera",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2017/03/10217312/r-1383490.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Tlajomulco",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "Casa Fuerte, coto El Baluarte de 18 casas, L\u00f3pez Mateos Sur, 3 rec\u00e1maras, 3 ba\u00f1os, casa club con gimnasio, alberca,\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Casa Fuerte",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2017/08/10260038/r-1280547.jpg"
+        ],
+        "tipo": "venta"
+    },
+    {
+        "ubicacion": "Tlaquepaque",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,020,000.00",
+        "descripcion": "Ideal para negocio y casa habitaci\u00f3n, Terreno 4 x 18, 1 muro independiente, opci\u00f3n a crecimiento, cochera con port\u00f3n, 2\u2026",
+        "recamaras": "2 Rec",
+        "m2": "72",
+        "m2_2": "72",
+        "wc": "1 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Camichines",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395518/r-1415405.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,050,000.00",
+        "descripcion": "FORET Residencial una planta, 2 autos, 2 habitaciones, cocina integral, ba\u00f1o completo, protecciones, tinaco, tanque estacionario, amenidades. terraza, jardines juegos\u2026",
+        "recamaras": "2 Rec",
+        "m2": "96",
+        "m2_2": "70",
+        "wc": "1 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. El Fortin",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392195/r-1412262.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tonal\u00e1",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,090,000.00",
+        "descripcion": "TONAL\u00c1, Los Arrayanes, coto,casa de dos niveles dos rec\u00e1maras, dos ba\u00f1os, estudio en planta baja o puede ser rec\u00e1mara, cochera,\u2026",
+        "recamaras": "2 Rec",
+        "m2": "78",
+        "m2_2": "94",
+        "wc": "2 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Tonala",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10385208/r-1409907.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,120,000.00",
+        "descripcion": "CASA COMPLETAMENTE REMODELADA 3 recamaras,3 pisos,2.5 ba\u00f1os, sala, comedor, cocina con cocina integral,patio de servicio,balcon,cochera techada para un auto, ACEPTO\u2026",
+        "recamaras": "2 Rec",
+        "m2": "64",
+        "m2_2": "155",
+        "wc": "2 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Constitucion",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392052/r-1412117.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,120,000.00",
+        "descripcion": "EXCELENTE CASA COMPLETAMENTE REMODELADA DE TODO PRACTICAMENTE NUEVA, 3 recamaras, 2.5 ba\u00f1os,sala,comedor,cocina con cocina integral,cochera para un auto,patio, area de\u2026",
+        "recamaras": "3 Rec",
+        "m2": "64",
+        "m2_2": "155",
+        "wc": "3 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Constitucion",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/11/10378133/r-1400069.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,150,000.00",
+        "descripcion": "Casa en Venta en Coto - Seguridad 247 - 90 m2 de Terreno y Construcci\u00f3n - 2 Plantas - 3\u2026",
+        "recamaras": "3 Rec",
+        "m2": "90",
+        "m2_2": "90",
+        "wc": "2 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Tesistan",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393688/r-1413667.jpeg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tonal\u00e1",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,200,000.00",
+        "descripcion": "Casa en coto privado con acceso controlado, \u00e1reas verdes y gimnasio al aire libre. 3 recamaras, 3 ba\u00f1os, cochera 2\u2026",
+        "recamaras": "3 Rec",
+        "m2": "85",
+        "m2_2": "100",
+        "wc": "3 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Ciudad Aztlan",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394477/r-1414337.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,200,000.00",
+        "descripcion": "excelente CASA, 3 pisos,3 ba\u00f1os,4 recamaras, star de tv,area de lavado,cochera para un auto amplia,sala,comedor,cocina con cocina integral,puertas,pisos,marcos,vidrios,ba\u00f1os etc. nuevos.\u2026",
+        "recamaras": "4 Rec",
+        "m2": "110",
+        "m2_2": "180",
+        "wc": "3 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Santa Elena Alcalde",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10389654/r-1409952.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,260,000.00",
+        "descripcion": "LOMAS del Gallo 3 rec\u00e1maras, 2.5 ba\u00f1os, cochera, cocina integral, vitropiso, azulejos, closet, puerta, todo nuevo, $1\u00b4260,000 acepto Infonavit. 3638-3960,\u2026",
+        "recamaras": "3 Rec",
+        "m2": "100",
+        "m2_2": "140",
+        "wc": "2.5 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Lomas Del Gallo",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395969/r-1416307.jpeg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,260,000.00",
+        "descripcion": "casa remodelada, 3 recamaras con closet, 2 ba\u00f1os completos, cochera para un auto,sala, comedor, cocina,patio de servicio,practicamente nueva. ACEPTO CREDITOS\u2026",
+        "recamaras": "3 Rec",
+        "m2": "100",
+        "m2_2": "165",
+        "wc": "2 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Lomas Del Gallo",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394330/r-1414201.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,300,000.00",
+        "descripcion": "\u00c1GUILAS 2 casas juntas, ambas $2\u00b4600,000, Colotl\u00e1n 2 cuadras Sierra Tapalpa. 33 1113-2745",
+        "recamaras": "5 Rec",
+        "m2": "400",
+        "m2_2": "360",
+        "wc": "3 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Las Aguilas",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2018/12/10382805/r-1404176.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 1,310,000.00",
+        "descripcion": "\u2705 Casa Grande \u2705 10 x 22 m. \u2705 3 autos \u2705 Sala, comedor, cocina \u2705 3 ba\u00f1os \u2705 Patio\u2026",
+        "recamaras": "4 Rec",
+        "m2": "220",
+        "m2_2": "160",
+        "wc": "3 ba\u00f1os",
+        "cars": "3 lugares",
+        "colonia": "Col. Lomas De Tabachines",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395036/r-1414861.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "La Calma, 4 Recamaras, 2.5 Ba\u00f1os, Una Planta, Jard\u00edn Inter (La Calma)",
+        "precio": "$ 13,000.00",
+        "descripcion": "LA CALMA, 4 recamaras, 2.5 ba\u00f1os, una planta, jard\u00edn interior, cuarto de servicio, star tv, cocina integral, cochera 2 autos.\u2026",
+        "recamaras": "4 Rec",
+        "m2": "1",
+        "m2_2": "0",
+        "wc": "2.5 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. La Calma",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395280/r-1415228.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395280/r-1415229.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395280/r-1415230.jpg",
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10395280/r-1415231.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00/mes",
+        "descripcion": "CA\u00d1ADAS 3 rec\u00e1maras, cuarto servicio, 3 ba\u00f1os, alberca, cochera 4 autos, vista espectacular, jard\u00edn arbolado. 33 1416-2941, 33 3570-0207.",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Las Ca\u00f1adas",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10384610/r-1405918.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00/mes",
+        "descripcion": "VALLE Esmeralda zona Tec Mty, amueblada, 3 recamaras (principal closet vestidor), 3.5 ba\u00f1os + cuarto de servicio con ba\u00f1o, cocina\u2026",
+        "recamaras": "4 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "4.5 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Valle Esmeralda",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394896/r-1414747.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlajomulco",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00/mes",
+        "descripcion": "CASA  2rec\u00e1maras, cochera, cerca Cl\u00ednica 180, mercado, bancos, SORIANA \n33 1441-8780 LISTA PARA VIVIR  YAAAAAAAAAAA  TE ESTA ESPERANDO TU CASA\u2026",
+        "recamaras": "2 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "1 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Tlajomulco De Zu\u00f1iga",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392121/r-1412205.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlaquepaque",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00/mes",
+        "descripcion": "SANTA Mar\u00eda Tequepexpan, coto Morada del Sur, amueblada o sin amueblar, 3 rec\u00e1maras, 3.5 ba\u00f1os, terminados en m\u00e1rmol, cochera 2\u2026",
+        "recamaras": "3 Rec",
+        "m2": "1",
+        "m2_2": "0",
+        "wc": "3.5 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Santa Maria Tequepexpan",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393091/r-1413074.jpeg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 14.00",
+        "descripcion": "Necesitas FIADOR? ayudo rentar propiedad, cobro moderado, solamente contesto por whatsapp 3316294520",
+        "recamaras": "3 Rec",
+        "m2": "400",
+        "m2_2": "200",
+        "wc": "3 ba\u00f1os",
+        "cars": "4 lugares",
+        "colonia": "Col. Abedules",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10394327/r-1414191.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 14.00",
+        "descripcion": "NECESITAS fiador? ayudo rentar propiedad, cobro moderado, solamente contesto por whatsapp 3316294520",
+        "recamaras": "4 Rec",
+        "m2": "400",
+        "m2_2": "200",
+        "wc": "2 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Abedules",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10391855/r-1411957.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlajomulco",
+        "titulo": "\n\n\n",
+        "precio": "$ 2,990.00/mes",
+        "descripcion": "amueblada cochera 2 recamaras cocina integral sala lista para vivir bonita y barata ideal estudiantes matrimonios jubilados viudos divorciados cerca\u2026",
+        "recamaras": "2 Rec",
+        "m2": "100",
+        "m2_2": "180",
+        "wc": "1 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. Colinas Desarrollo",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392264/r-1412289.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlajomulco",
+        "titulo": "\n\n\n",
+        "precio": "$ 3,500.00/mes",
+        "descripcion": "ADOLF Horn Coto Villa Esmeralda, tres recamaras, dos ba\u00f1os, cocina integral, $3,000. 1566-6441.",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Tlajomulco De Zu\u00f1iga",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10393784/r-1413743.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlaquepaque",
+        "titulo": "\n\n\n",
+        "precio": "$ 4,100.00/mes",
+        "descripcion": "ESTA EN 8 DE JULIO A 5 MINUTOS DE PERIFERICO, RENTA INCLUYE MTTO, COTO AURORA, DOBLE CASETA DE VIGILANCIA 24\u2026",
+        "recamaras": "2 Rec",
+        "m2": "115",
+        "m2_2": "95",
+        "wc": "2 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Amaneceres",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392266/r-1412309.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlaquepaque",
+        "titulo": "\n\n\n",
+        "precio": "$ 4,100.00/mes",
+        "descripcion": "CASA 2 NIVELES, COTO AURORA, RENTA INCLUYE MTTO, EXCELENTE ESTADO , COCHERA 2 AUTOS, PROTECCIONES, MOSQUITEROS, TINACO DE AGUA, CILINDRO\u2026",
+        "recamaras": "2 Rec",
+        "m2": "115",
+        "m2_2": "95",
+        "wc": "2 ba\u00f1os",
+        "cars": "2 lugares",
+        "colonia": "Col. Amaneceres",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/02/10392265/r-1412299.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 4,200.00/mes",
+        "descripcion": "Casa 3 recamaras, 2 ba\u00f1os, 1 estacionamiento, en Coto con vigilancia, carretera a Colotlan, Tel 3316003716",
+        "recamaras": "3 Rec",
+        "m2": "75",
+        "m2_2": "100",
+        "wc": "2 ba\u00f1os",
+        "cars": "1 lugares",
+        "colonia": "Col. La Magdalena",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/images_avisos/bienes_raices/2019/01/10390807/r-1411044.jpg"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "JARDINES Guadalupe, 2 niveles, 3 rec\u00e1maras, 3.5 ba\u00f1os, 2 estacionamientos. 3044-9900, 3044-9901.",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Jardines De Guadalupe",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "RENTO casa, no ni\u00f1os, Calle 64 #667 S. L., tel. 3643-4753.",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Blanco Y Cuellar",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "JARDINES Alcalde, 3 recamaras, sala comedor, cocina integral, cochera dos, 33- 3440-4877",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Jardines Alcalde",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Guadalajara",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "Bonita cerca Zoologico, 3 recamaras, 2 ba\u00f1os completos. $3,000\u00b0\u00b0; 3603-0629, 33 1130-8535",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Lomas Del Paraiso",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tonal\u00e1",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "Privadas de la Reina calle Reina de Fr\u00e1ncia Oeste 74 Tonala, 33 1228-3720.",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Privadas De La Reina",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Tlaquepaque",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "COTO Terrazas (Toluquilla), 3 rec\u00e1maras, cocina integral, port\u00f3n el\u00e9ctrico, $6,000.\u00b0\u00b0; 33 2833-5140",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Toluquilla",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "VALLE Real hermosa casa, tres rec\u00e1maras con ba\u00f1o/ vestidor, sala, comedor, cocina integral, cuarto de lavado y cuarto de servicio\u2026",
+        "recamaras": "0 Rec",
+        "m2": "0",
+        "m2_2": "0",
+        "wc": "0 ba\u00f1os",
+        "cars": "0 lugares",
+        "colonia": "Col. Valle Real",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "TEC Monterrey- Flextronics amueblada, 3 recamaras, 2 ba\u00f1os, vigilancia, club; 33 1699-1308",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Jardin Real",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "LAS Fuentes, nueva, coto privado con 8 casas, sala comedor, cocina integral, cuarto y ba\u00f1o de servicio, 3 recamaras con\u2026",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Las Fuentes",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "LAS Aguilas tres recamaras, cochera doble, cocina integral $5,000, cel. 04433 2543-9961",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Las Aguilas",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "JARDINES Universidad, una planta, tres recamaras, cuarto servicio, dos autos. 33 1265-3708; 3628-7172.",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Jardines Universidad",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    },
+    {
+        "ubicacion": "Zapopan",
+        "titulo": "\n\n\n",
+        "precio": "$ 0.00",
+        "descripcion": "SOLARES, Coto, dos plantas, tres recamaras, jard\u00edn, dos autos. 33 1265-3708; 3628-7172.",
+        "recamaras": " Rec",
+        "m2": "",
+        "m2_2": "",
+        "wc": " ba\u00f1os",
+        "cars": " lugares",
+        "colonia": "Col. Solares",
+        "imgs": [
+            "http://aviso.static.informador.com.mx/_assets/images/r-casa-placeholder.png"
+        ],
+        "tipo": "renta"
+    }
+]
